@@ -333,7 +333,7 @@ const Portfolio = () => {
             <h3 className="text-xl font-bold text-zinc-100 mb-2">Let's Build</h3>
             <p className="text-sm text-zinc-400 mb-8 max-w-[200px]">Open for collaborations and applied AI research.</p>
             <div className="flex items-center gap-4">
-              <a href="https://github.com/ashishsuman" target="_blank" rel="noopener noreferrer" className="p-4 bg-zinc-800/80 rounded-full hover:bg-zinc-100 hover:text-zinc-900 text-zinc-400 transition-all duration-300 hover:scale-110 shadow-lg">
+              <a href="https://github.com/ashishsumn" target="_blank" rel="noopener noreferrer" className="p-4 bg-zinc-800/80 rounded-full hover:bg-zinc-100 hover:text-zinc-900 text-zinc-400 transition-all duration-300 hover:scale-110 shadow-lg">
                 <GithubIcon size={20} />
               </a>
               <a href="https://linkedin.com/in/ashishsuman1" target="_blank" rel="noopener noreferrer" className="p-4 bg-zinc-800/80 rounded-full hover:bg-[#0A66C2] hover:text-white text-zinc-400 transition-all duration-300 hover:scale-110 shadow-lg">
